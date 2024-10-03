@@ -16,4 +16,4 @@ I have completed several courses in these fields and have experience working wit
 
 ## Get in Touch
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/busra-burcu-kuleci/)
-- **Email:** dwburcu@gmail.com
+- **Email:** busraburcukuleci@gmail.com

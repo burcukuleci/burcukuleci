@@ -5,7 +5,7 @@ I am a Data Scientist with a foundation in data science and machine learning.
 
 I have completed several courses in these fields and have experience working with Python, T-SQL, and MS SQL Server.
 
-🌱 I’m currently learning NLP. 
+🌱 I’m currently learning deep learning. 
 
 ## Skills
 - **Programming Languages:** Python, T-SQL
